@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     private float horizontal;
-    private float speed = 700f;
+    private float speed = 500f;
     private float jumpPow = 14f;
     private bool isFacingRight = true;
 
